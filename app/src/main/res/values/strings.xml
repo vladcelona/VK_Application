@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VK_Application</string>
+    <string name="first_person_name">Guy</string>
+    <string name="second_person_name">Just a very long string for testing the app hello over there</string>
+</resources>
